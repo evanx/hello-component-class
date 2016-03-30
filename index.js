@@ -4,9 +4,9 @@ export default class {
    constructor() {
    }
 
-   async init(state, props, logger, service) {
+   async init(state) {
       Object.assign(this, state);
-      logger.info('hello', props);
+      this.logger.info('hello', this.name, Object.keys(this.props));
    }
 
    async start() {
