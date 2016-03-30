@@ -1,0 +1,13 @@
+{
+  "name": "hello-component-class",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@evanxsummers",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
