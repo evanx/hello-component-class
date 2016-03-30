@@ -1,5 +1,5 @@
 
-export default class HelloComponent {
+export default class {
 
    constructor() {
    }
