@@ -10,7 +10,7 @@ export default class {
    }
 
    async start() {
-      this.logger.info('state ready', this.name);
+      this.logger.info('system ready', this.name);
    }
 
    async end() {
